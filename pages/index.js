@@ -16,12 +16,9 @@ export default function Home() {
         We are in process of revamping the platform and coming back in a new avatar. Stay tuned! We will back soon!
 
         </p>
-        <p>Thank you for supporting arre.co.in</p>
-        <p>We are active on our social handles. Please follow us on</p>
-        <p><a href="https://www.instagram.com/arreindia/" target="_blank">Instagram</a></p>
-        <p><a href="https://www.youtube.com/c/ArreIndia" target="_blank">YouTube</a></p>
-        <p><a href="https://twitter.com/Arretweets" target="_blank" >Twitter</a></p>
-        <p><a href="https://www.facebook.com/ArreIndia" target="_blank">Facebook</a></p>
+        <p className="description">We are active on our social handles. Please follow us on</p>
+        <p><a href="https://www.instagram.com/arre_voice/" target="_blank">Instagram</a></p>
+        <p><a href="https://twitter.com/ArreVoice/" target="_blank" >Twitter</a></p>
 
       </main>
 

@@ -5,6 +5,7 @@ export default function Footer() {
     <>
       <footer className={styles.footer}>
         <img src="/arre-logo.png" alt="Logo" className={styles.logo} />
+        <img src="/arreVoiceLogo.svg" alt="Logo" className={styles.logo} />
       </footer>
     </>
   )
